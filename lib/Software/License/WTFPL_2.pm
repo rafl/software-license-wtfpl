@@ -6,6 +6,8 @@ package Software::License::WTFPL_2;
 
 use base 'Software::License';
 
+=encoding utf8
+
 =head1 DESCRIPTION
 
 There is a long ongoing battle between GPL zealots and BSD fanatics,
