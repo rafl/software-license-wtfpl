@@ -2,6 +2,7 @@ use strict;
 use warnings;
 
 package Software::License::WTFPL_2;
+# ABSTRACT: The Do What The Fuck You Want To Public License, Version 2
 
 use base 'Software::License';
 
