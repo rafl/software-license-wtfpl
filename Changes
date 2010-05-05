@@ -1,2 +1,5 @@
+0.02  Wed, 05 May 2010 16:27:16 +0200
+  * Specify the encoding for the pod (Ævar Arnfjörð Bjarmason).
+
 0.01  Wed, 05 May 2010 03:41:07 +0200
   * Initial release.
