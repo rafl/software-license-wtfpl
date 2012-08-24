@@ -69,7 +69,7 @@ license.
 The WTFPL on this website is version 2. Version 1 of the WTFPL was
 written by Banlu Kemiyatorn, who used it for some WindowMaker artwork.
 
-L<Freshmeat|http://freshmeat.net/browse/1008/> has a WTFPL license
+L<freecode.com|http://freecode.com/tags/wtfpl/> has a WTFPL license
 category.
 
 = By the way, with the WTFPL, can I also…
